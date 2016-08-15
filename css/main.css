@@ -1,0 +1,208 @@
+
+header{
+	background-image: url("../img/background/hero.jpg");
+	background-size: 100% 100%;
+	height: 500px;
+
+}
+#estrella{
+	display: inline-block;
+}
+.icon0{
+	display: inline-block;
+}
+.espacio{
+	margin-top: 5%;
+}
+.back1{
+	background-image: url("../img/background/city.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	height: 400px;
+	background-color:#080808;
+	opacity: 0.7;
+}
+#customer{
+	width:10%;
+	height:10%;
+	border-radius: 50%;
+}
+.espacio2{
+	margin-bottom: 5%;
+}
+.opacidad{
+	background-color: #1E1C1C;
+	opacity: 0.9%
+}
+.botonN{
+	width: 20%;
+	height: 30%;
+	background-color: #0D0C0C;
+	opacity: 0.6;
+	color: white;
+	border-style: none;
+	padding: 3%;
+}
+.botonB{
+	width: 20%;
+	height: 30%;
+	background-color:#999292;
+	opacity: 0.4;
+	color: white;
+	border-style: none;
+	padding: 3%;
+}
+.redes{
+	display: inline-block;
+	margin-left: 1%
+}
+#botonC{
+	width: 12%;
+	height: 30%;
+	background-color:#999292;
+	opacity: 0.4;
+	color: white;
+	border-style: none;
+	padding: 2%;
+}
+/* adry
+ */
+/* MÁRGENES (iris)*/
+.mg-t{/*Margin top de iconos y texto*/
+	margin-top: 3%;	
+}
+.mg-l{
+	margin-left: 5%;
+}
+.mg-left{
+	margin-left: 12%;
+}
+.h3{
+	margin-left: 20%;
+}
+.centrado{
+	display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+/* IMAGENES (iris) */
+.laptop{
+	height:50%;
+	width:100%;
+}
+.fotos-grid{
+	width: 350px;
+	height: 200px;
+}
+.formulario{
+	background-image: url("../img/background/contactus.jpg");
+	height:100%;
+	width:100%;
+	color:white;
+}
+/* LETRAS (iris)*/
+.letra{
+	font-size:0.8em;
+}
+.more{	
+	font-size:2em;
+}
+.justify{
+	text-align:justify;
+}
+/* BOTONES (iris)*/
+.boton-blue{
+	height:2em;
+	width: 5em;
+	background-color: #086A87;/*color azul turquesa*/
+	padding:1%;
+	color:white;
+}
+.boton-white{
+	height:2em;
+	width: 5em;
+	background-color: white;
+	padding:1%;
+	color:black;
+}
+.boton-gris-oscuro{
+	height:2em;
+	width: 5em;
+	background-color: #585858;/*color gris oscuro*/
+	padding:0.5%;
+	color:white;
+	margin-left:29.3em;
+}
+.purchase{
+	height:2em;
+	width: 5em;
+	background-color: #585858;/*color gris oscuro*/
+	padding:5%;
+	color:white;	
+}
+.submit{
+	height:3em;
+	width:8em;
+	background-color:#28B9D8;/*color azul claro*/
+	padding:1%;
+	color:white;
+	margin-left: 20%;
+}
+/* FONDOS (iris)*/
+.bg-grey{/*Back gris de portafolio*/
+	background-color: rgb(244, 244, 244);
+	width:100%;
+	height:500%;
+}
+.bg-white{
+	background-color:white;
+	height:40%;
+	width:39%;	
+}
+.bg-chico-white{
+	height:500px;
+	width:100px;
+}
+.bg-purple{
+	height:80px;
+	width:200px;
+	background-color: #21084F;/*azul marino*/
+	color:white;
+	display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+.bg-griss{
+	height:80px;
+	width:200px;
+	background-color: lightgrey;
+}
+.bg-azull{
+	background-color: #4E60EB;/*azul claro*/
+	height:80px;
+	width:200px;
+	color:white;
+	display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+.input-msg{
+	height:100px;
+	width:400px;
+	margin-left: 20%;
+	opacity: 0.05;		
+}
+.input-email{
+	height:40px;
+	width: 400px;
+	margin-left: 20%;
+	opacity: 0.05;  	
+}
+.gris{
+	background-color: rgb(244, 244, 244);
+	width:110%;
+	height:2000%;
+}
